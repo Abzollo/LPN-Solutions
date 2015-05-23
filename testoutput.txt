@@ -1,0 +1,67 @@
++ the cow under the table shoots .
+
+s(
+   np(
+      det(the)
+      n(cow)
+      prep(
+         loc(under)
+         np(
+            det(the)
+            n(table))))
+   vp(shoots))
+
+
++ the cow under the table shoots .
+
+s(
+   np(
+      det(the)
+      n(cow)
+      prep(
+         loc(under)
+         np(
+            det(the)
+            n(table))))
+   vp(shoots))
+
+
+the cow under the table shoots .
+
+true
+
+
+- the cow under the table shoots .
+
+true
+
+
++ the cow under the table shoots .
+
+s(
+   np(
+      det(the)
+      n(cow)
+      prep(
+         loc(under)
+         np(
+            det(the)
+            n(table))))
+   vp(shoots))
+
+
++ a dead woman likes he .
+
+false
+
+
+- a dead woman likes he .
+
+false
+
+
+a dead woman likes he .
+
+false
+
+

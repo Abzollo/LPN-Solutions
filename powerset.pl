@@ -1,0 +1,1 @@
+powerset(L,P):-  findall(X,subset(X,L),P).
