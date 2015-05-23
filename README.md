@@ -1,5 +1,5 @@
 # Learn Prolog Now! Solutions
-My solutions to the exercises and practical sessions of the online book "Learn Prolog Now!"
+My solutions (in SWI-Prolog) to the exercises and practical sessions of the online book "Learn Prolog Now!"
 
 # What to Know
 All problems are solved assuming we only have the knowledge gained so far at the time of the problem.
